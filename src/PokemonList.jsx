@@ -9,6 +9,7 @@ const PokemonList = ({ pokemonList }) => {
           <div
             className="list-item-name"
           >
+            <p> Hier ist was Neues </p>
             {name}
           </div>
         </Link>
